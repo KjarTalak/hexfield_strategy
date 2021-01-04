@@ -1,0 +1,70 @@
+
+++ Battalion Detachment 0CP (Imperium - Astra Militarum) [44 PL, 3CP, 935pts] ++
+
++ Configuration +
+
+Battle Size [6CP]: 2. Incursion (51-100 Total PL / 501-1000 Points) 
+
+Detachment CP
+
+Regimental Doctrine: Astra Millitarum
+
++ Stratagems +
+
+Imperial Commander's Armoury [-3CP]: 2 additional Heirloom of Conquest
+
++ Agents of the Imperium +
+
+Vindicare Assassin [5 PL, 100pts]: Blind Grenades, Exitus Pistol, Exitus Rifle
+
++ HQ +
+
+Company Commander [2 PL, 40pts]: Display Astra Militarum Orders, Frag grenades, Laspistol, Power sword, Relic: The Laurels of Command, Warlord, WT: Master of Command
+
+Lord Commissar [3 PL, 50pts]: Plasma pistol, Power fist, Relic: The Deathmask of Ollanius
+
++ Troops +
+
+Infantry Squad [3 PL, 75pts]
+. 6x Guardsman: 6x Lasgun
+. Guardsman W/ Special Weapon: Plasma gun
+. Heavy Weapon Team: Heavy bolter, Lasgun
+. Sergeant: Plasma pistol, Power sword
+
+Infantry Squad [3 PL, 75pts]
+. 6x Guardsman: 6x Lasgun
+. Guardsman W/ Special Weapon: Meltagun
+. Heavy Weapon Team: Heavy bolter, Lasgun
+. Sergeant: Plasma pistol, Power sword
+
+Infantry Squad [3 PL, 75pts]
+. 6x Guardsman: 6x Lasgun
+. Guardsman W/ Special Weapon: Plasma gun
+. Heavy Weapon Team: Heavy bolter, Lasgun
+. Sergeant: Plasma pistol, Power sword
+
+Infantry Squad [3 PL, 75pts]
+. 6x Guardsman: 6x Lasgun
+. Guardsman W/ Special Weapon: Plasma gun
+. Heavy Weapon Team: Heavy bolter, Lasgun
+. Sergeant: Plasma pistol, Power sword
+
++ Elites +
+
+Veterans [5 PL, 85pts]
+. Veteran Sergeant: Chainsword, Plasma pistol
+. 6x Veteran w/ Lasgun: 6x Lasgun
+. Veteran w/ Special Weapon: Meltagun
+. Veteran Weapon Team: Autocannon, Lasgun
+
++ Heavy Support +
+
+Hydras [6 PL, 120pts]
+. Hydra: Heavy Bolter, Heavy Stubber, Hydra Quad Autocannon, Stat Damage (HS), Track guards
+
+Leman Russ Battle Tanks [11 PL, 240pts]
+. Leman Russ Punisher: Heavy Bolter, Heavy Stubber, Multi-meltas, Stat Damage (Leman Russ), Track guards, Turret-mounted Punisher Gatling Cannon
+
+++ Total: [44 PL, 3CP, 935pts] ++
+
+Created with BattleScribe (https://battlescribe.net)
